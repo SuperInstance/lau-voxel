@@ -1,0 +1,8 @@
+[package]
+name = "lau-voxel"
+version = "0.1.0"
+edition = "2021"
+description = "Voxel world engine for the Lau (Layered Agent-UI) system"
+license = "MIT"
+
+[dependencies]
